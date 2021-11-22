@@ -1,2 +1,2 @@
-[Wifi-name:]  [pin/pass:] 
-[Wifi-name:]  [pin/pass:] 
+[Wifi-name:]  [CODEC Nature & life Project]
+[Wifi-name:]  [raptor99] 
